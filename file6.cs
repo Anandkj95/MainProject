@@ -1,4 +1,6 @@
 class File6{
+
+    static int a=50000;
     static int a=2000;
     static int b=29;
     static int c;
