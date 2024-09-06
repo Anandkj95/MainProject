@@ -1,0 +1,15 @@
+C:\Users\jayso\MainProject\obj\Debug\net8.0\MainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayso\MainProject\obj\Debug\net8.0\MainProject.AssemblyInfoInputs.cache
+C:\Users\jayso\MainProject\obj\Debug\net8.0\MainProject.AssemblyInfo.cs
+C:\Users\jayso\MainProject\obj\Debug\net8.0\MainProject.csproj.CoreCompileInputs.cache
+C:\Users\jayso\MainProject\bin\Debug\net8.0\MainProject.exe
+C:\Users\jayso\MainProject\bin\Debug\net8.0\MainProject.deps.json
+C:\Users\jayso\MainProject\bin\Debug\net8.0\MainProject.runtimeconfig.json
+C:\Users\jayso\MainProject\bin\Debug\net8.0\MainProject.dll
+C:\Users\jayso\MainProject\bin\Debug\net8.0\MainProject.pdb
+C:\Users\jayso\MainProject\obj\Debug\net8.0\MainProject.dll
+C:\Users\jayso\MainProject\obj\Debug\net8.0\refint\MainProject.dll
+C:\Users\jayso\MainProject\obj\Debug\net8.0\MainProject.pdb
+C:\Users\jayso\MainProject\obj\Debug\net8.0\MainProject.genruntimeconfig.cache
+C:\Users\jayso\MainProject\obj\Debug\net8.0\ref\MainProject.dll
+C:\Users\jayso\MainProject\obj\Debug\net8.0\MainProject.sourcelink.json
