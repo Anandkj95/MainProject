@@ -1,7 +1,8 @@
 class File6{
 
+
     static int a=50000;
-    static int a=2000;
+    static int d=10000;
     static int b=29;
     static int c;
     public static void Main(string[] args)
